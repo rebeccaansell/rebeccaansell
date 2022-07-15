@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rebeccaansell
 - 👀 I’m interested in software engineering and artificial intelligence
-- 🌱 I’m currently learning HTML, Python, C++
+- 🌱 I mostly work in Python, C++
 - 💞️ I’m looking for internships!
 - 📫 How to reach me rebecca.ansell@my.liu.edu
 
